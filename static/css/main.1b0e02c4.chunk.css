@@ -1,0 +1,2 @@
+.app{display:flex;flex-direction:column;align-items:center}.app__inner{max-width:600px}.app__list{padding:0}.app__filters{max-width:600px}.app__list-item{width:100%;border:1px solid #d3d3d3;border-radius:5px;padding:5px;box-shadow:0 0 2px #000;list-style:none;transition:transform 1s}.app__list-item:hover{cursor:pointer;transform:scale(1.05)}.app__list-item:not(:last-child){margin-bottom:5px}.app__select-styles{margin-top:10px}
+/*# sourceMappingURL=main.1b0e02c4.chunk.css.map */
